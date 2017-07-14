@@ -1,0 +1,64 @@
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\TareaAcademica1\TA1\bin\Debug\TA1.exe
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\TareaAcademica1\TA1\bin\Debug\TA1.pdb
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\TareaAcademica1\TA1\bin\Debug\TA1.xml
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\TareaAcademica1\TA1\obj\x86\Debug\PA02_AliciaE.vbprojResolveAssemblyReference.cache
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\TareaAcademica1\TA1\obj\x86\Debug\TA1.AboutBox1.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\TareaAcademica1\TA1\obj\x86\Debug\TA1.Form1.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\TareaAcademica1\TA1\obj\x86\Debug\TA1.Form2.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\TareaAcademica1\TA1\obj\x86\Debug\TA1.Form3.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\TareaAcademica1\TA1\obj\x86\Debug\TA1.Form4.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\TareaAcademica1\TA1\obj\x86\Debug\TA1.Form5.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\TareaAcademica1\TA1\obj\x86\Debug\TA1.MDIParent1.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\TareaAcademica1\TA1\obj\x86\Debug\TA1.Resources.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\TareaAcademica1\TA1\obj\x86\Debug\PA02_AliciaE.vbproj.GenerateResource.Cache
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\TareaAcademica1\TA1\obj\x86\Debug\TA1.exe
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\TareaAcademica1\TA1\obj\x86\Debug\TA1.xml
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\TareaAcademica1\TA1\obj\x86\Debug\TA1.pdb
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Forms\TA1\obj\x86\Debug\TA1.exe
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Forms\TA1\obj\x86\Debug\TA1.xml
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Forms\TA1\obj\x86\Debug\TA1.pdb
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Forms\TA1\bin\Debug\TA1.exe
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Forms\TA1\bin\Debug\TA1.pdb
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Forms\TA1\bin\Debug\TA1.xml
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Forms\TA1\obj\x86\Debug\PA02_AliciaE.vbprojResolveAssemblyReference.cache
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Forms\TA1\obj\x86\Debug\TA1.AboutBox1.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Forms\TA1\obj\x86\Debug\TA1.Form1.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Forms\TA1\obj\x86\Debug\TA1.Form2.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Forms\TA1\obj\x86\Debug\TA1.Form3.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Forms\TA1\obj\x86\Debug\TA1.Form4.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Forms\TA1\obj\x86\Debug\TA1.Form5.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Forms\TA1\obj\x86\Debug\TA1.MDIParent1.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Forms\TA1\obj\x86\Debug\TA1.Resources.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Forms\TA1\obj\x86\Debug\PA02_AliciaE.vbproj.GenerateResource.Cache
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\TA1.exe
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\TA1.xml
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\TA1.pdb
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\bin\Debug\TA1.exe
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\bin\Debug\TA1.pdb
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\bin\Debug\TA1.xml
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\PA02_AliciaE.vbprojResolveAssemblyReference.cache
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\TA1.AboutBox1.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\TA1.Form1.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\TA1.Form2.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\TA1.Form3.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\TA1.Form4.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\TA1.Form5.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\TA1.MDIParent1.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\TA1.Resources.resources
+D:\CONTINENTAL\CICLO V\II MODULO\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\PA02_AliciaE.vbproj.GenerateResource.Cache
+C:\A_UNIDADES\RECURSOS\visual studio\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\TA1.exe
+C:\A_UNIDADES\RECURSOS\visual studio\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\TA1.xml
+C:\A_UNIDADES\RECURSOS\visual studio\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\TA1.pdb
+C:\A_UNIDADES\RECURSOS\visual studio\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\bin\Debug\TA1.exe
+C:\A_UNIDADES\RECURSOS\visual studio\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\bin\Debug\TA1.pdb
+C:\A_UNIDADES\RECURSOS\visual studio\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\bin\Debug\TA1.xml
+C:\A_UNIDADES\RECURSOS\visual studio\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\PA02_AliciaE.vbprojResolveAssemblyReference.cache
+C:\A_UNIDADES\RECURSOS\visual studio\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\TA1.AboutBox1.resources
+C:\A_UNIDADES\RECURSOS\visual studio\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\TA1.Form1.resources
+C:\A_UNIDADES\RECURSOS\visual studio\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\TA1.Form2.resources
+C:\A_UNIDADES\RECURSOS\visual studio\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\TA1.Form3.resources
+C:\A_UNIDADES\RECURSOS\visual studio\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\TA1.Form4.resources
+C:\A_UNIDADES\RECURSOS\visual studio\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\TA1.Form5.resources
+C:\A_UNIDADES\RECURSOS\visual studio\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\TA1.MDIParent1.resources
+C:\A_UNIDADES\RECURSOS\visual studio\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\TA1.Resources.resources
+C:\A_UNIDADES\RECURSOS\visual studio\Laboratorio de Programación\UNIT 2\PA02_LP_AliciaE_MdLV\PA02_LP_Formularios\TA1\obj\x86\Debug\PA02_AliciaE.vbproj.GenerateResource.Cache
